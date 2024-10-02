@@ -1,0 +1,1 @@
+Este projeto consiste no desenvolvimento de uma API para gerenciar dados de usuários, utilizando as operações básicas de CRUD (Create, Read, Update e Delete). A API foi desenvolvida com PHP  e conectada a um banco de dados relacional MySQL.
